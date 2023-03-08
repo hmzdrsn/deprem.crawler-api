@@ -11,7 +11,6 @@ namespace deprem.api.Controllers
     [ApiController]
     public class depremController : Controller
     {
-        
         string kayitlisaat = "";
         string connectionString = "Data Source=wisgn103986\\MSSQLSERVER2;Initial Catalog= test;User Id=sa;Password=123456;";
 

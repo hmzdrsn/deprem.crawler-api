@@ -981,23 +981,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\h-a-m\\.nuget\\packages\\": {},
+    "C:\\Users\\stajyer\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\h-a-m\\Documents\\GitHub\\deprem.crawler-api\\depre.crawler\\deprem.api\\deprem.api.csproj",
+      "projectUniqueName": "C:\\Users\\stajyer\\Desktop\\git\\deprem.crawler-api\\depre.crawler\\deprem.api\\deprem.api.csproj",
       "projectName": "deprem.api",
-      "projectPath": "C:\\Users\\h-a-m\\Documents\\GitHub\\deprem.crawler-api\\depre.crawler\\deprem.api\\deprem.api.csproj",
-      "packagesPath": "C:\\Users\\h-a-m\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\h-a-m\\Documents\\GitHub\\deprem.crawler-api\\depre.crawler\\deprem.api\\obj\\",
+      "projectPath": "C:\\Users\\stajyer\\Desktop\\git\\deprem.crawler-api\\depre.crawler\\deprem.api\\deprem.api.csproj",
+      "packagesPath": "C:\\Users\\stajyer\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\stajyer\\Desktop\\git\\deprem.crawler-api\\depre.crawler\\deprem.api\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\h-a-m\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\stajyer\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -1060,7 +1060,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
       }
     }
   }

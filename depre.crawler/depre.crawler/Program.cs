@@ -18,7 +18,7 @@ using (SqlConnection conn = new SqlConnection(connectionString))
     }
     catch (Exception ex)
     {
-        Console.WriteLine("Bağlantı Hatası : "+ex);
+        Console.WriteLine("Bağlantı Hatası!!! : "+ex);
     }
 }
 
