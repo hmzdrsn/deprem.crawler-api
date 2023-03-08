@@ -11,8 +11,7 @@ namespace deprem.api.Controllers
     [ApiController]
     public class depremController : Controller
     {
-        string url = "http://www.koeri.boun.edu.tr/scripts/lst9.asp";
-        string xPath = @"//html/body/pre";
+        
         string kayitlisaat = "";
         string connectionString = "Data Source=wisgn103986\\MSSQLSERVER2;Initial Catalog= test;User Id=sa;Password=123456;";
 
