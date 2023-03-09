@@ -50,7 +50,7 @@ while (true)
 
         CompareandInsert(saat);
     }
-    Thread.Sleep(TimeSpan.FromSeconds(10));
+    Thread.Sleep(TimeSpan.FromSeconds(60));
 }
 
 
