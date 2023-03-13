@@ -1,0 +1,232 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\stajyer\\Desktop\\git\\deprem.crawler-api\\depre.crawler\\depre.crawler\\deprem.crawler.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\stajyer\\Desktop\\git\\deprem.crawler-api\\depre.crawler\\depre.crawler\\deprem.crawler.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\stajyer\\Desktop\\git\\deprem.crawler-api\\depre.crawler\\depre.crawler\\deprem.crawler.csproj",
+        "projectName": "deprem.crawler",
+        "projectPath": "C:\\Users\\stajyer\\Desktop\\git\\deprem.crawler-api\\depre.crawler\\depre.crawler\\deprem.crawler.csproj",
+        "packagesPath": "C:\\Users\\stajyer\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\stajyer\\Desktop\\git\\deprem.crawler-api\\depre.crawler\\depre.crawler\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\stajyer\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\stajyer\\Desktop\\git\\deprem.crawler-api\\depre.crawler\\deprem.Database\\deprem.Database.csproj": {
+                "projectPath": "C:\\Users\\stajyer\\Desktop\\git\\deprem.crawler-api\\depre.crawler\\deprem.Database\\deprem.Database.csproj"
+              },
+              "C:\\Users\\stajyer\\Desktop\\git\\deprem.crawler-api\\depre.crawler\\deprem.Model\\deprem.Model.csproj": {
+                "projectPath": "C:\\Users\\stajyer\\Desktop\\git\\deprem.crawler-api\\depre.crawler\\deprem.Model\\deprem.Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "HtmlAgilityPack": {
+              "target": "Package",
+              "version": "[1.11.46, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.3, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\stajyer\\Desktop\\git\\deprem.crawler-api\\depre.crawler\\deprem.Database\\deprem.Database.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\stajyer\\Desktop\\git\\deprem.crawler-api\\depre.crawler\\deprem.Database\\deprem.Database.csproj",
+        "projectName": "deprem.Database",
+        "projectPath": "C:\\Users\\stajyer\\Desktop\\git\\deprem.crawler-api\\depre.crawler\\deprem.Database\\deprem.Database.csproj",
+        "packagesPath": "C:\\Users\\stajyer\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\stajyer\\Desktop\\git\\deprem.crawler-api\\depre.crawler\\deprem.Database\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\stajyer\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\stajyer\\Desktop\\git\\deprem.crawler-api\\depre.crawler\\deprem.Model\\deprem.Model.csproj": {
+                "projectPath": "C:\\Users\\stajyer\\Desktop\\git\\deprem.crawler-api\\depre.crawler\\deprem.Model\\deprem.Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\stajyer\\Desktop\\git\\deprem.crawler-api\\depre.crawler\\deprem.Model\\deprem.Model.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\stajyer\\Desktop\\git\\deprem.crawler-api\\depre.crawler\\deprem.Model\\deprem.Model.csproj",
+        "projectName": "deprem.Model",
+        "projectPath": "C:\\Users\\stajyer\\Desktop\\git\\deprem.crawler-api\\depre.crawler\\deprem.Model\\deprem.Model.csproj",
+        "packagesPath": "C:\\Users\\stajyer\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\stajyer\\Desktop\\git\\deprem.crawler-api\\depre.crawler\\deprem.Model\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\stajyer\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

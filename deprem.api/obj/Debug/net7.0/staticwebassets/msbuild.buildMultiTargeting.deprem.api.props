@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\deprem.api.props" />
+</Project>

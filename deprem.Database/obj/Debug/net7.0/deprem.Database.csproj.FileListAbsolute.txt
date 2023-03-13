@@ -1,0 +1,17 @@
+C:\Users\stajyer\Desktop\git\deprem.crawler-api\depre.crawler\deprem.Database\obj\Debug\net7.0\deprem.Database.csproj.AssemblyReference.cache
+C:\Users\stajyer\Desktop\git\deprem.crawler-api\depre.crawler\deprem.Database\obj\Debug\net7.0\deprem.Database.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stajyer\Desktop\git\deprem.crawler-api\depre.crawler\deprem.Database\obj\Debug\net7.0\deprem.Database.AssemblyInfoInputs.cache
+C:\Users\stajyer\Desktop\git\deprem.crawler-api\depre.crawler\deprem.Database\obj\Debug\net7.0\deprem.Database.AssemblyInfo.cs
+C:\Users\stajyer\Desktop\git\deprem.crawler-api\depre.crawler\deprem.Database\obj\Debug\net7.0\deprem.Database.csproj.CoreCompileInputs.cache
+C:\Users\stajyer\Desktop\git\deprem.crawler-api\depre.crawler\deprem.Database\bin\Debug\net7.0\deprem.Database.deps.json
+C:\Users\stajyer\Desktop\git\deprem.crawler-api\depre.crawler\deprem.Database\bin\Debug\net7.0\deprem.Database.runtimeconfig.json
+C:\Users\stajyer\Desktop\git\deprem.crawler-api\depre.crawler\deprem.Database\bin\Debug\net7.0\deprem.Database.dll
+C:\Users\stajyer\Desktop\git\deprem.crawler-api\depre.crawler\deprem.Database\bin\Debug\net7.0\deprem.Database.pdb
+C:\Users\stajyer\Desktop\git\deprem.crawler-api\depre.crawler\deprem.Database\bin\Debug\net7.0\deprem.Model.dll
+C:\Users\stajyer\Desktop\git\deprem.crawler-api\depre.crawler\deprem.Database\bin\Debug\net7.0\deprem.Model.pdb
+C:\Users\stajyer\Desktop\git\deprem.crawler-api\depre.crawler\deprem.Database\obj\Debug\net7.0\deprem.Database.csproj.CopyComplete
+C:\Users\stajyer\Desktop\git\deprem.crawler-api\depre.crawler\deprem.Database\obj\Debug\net7.0\deprem.Database.dll
+C:\Users\stajyer\Desktop\git\deprem.crawler-api\depre.crawler\deprem.Database\obj\Debug\net7.0\refint\deprem.Database.dll
+C:\Users\stajyer\Desktop\git\deprem.crawler-api\depre.crawler\deprem.Database\obj\Debug\net7.0\deprem.Database.pdb
+C:\Users\stajyer\Desktop\git\deprem.crawler-api\depre.crawler\deprem.Database\obj\Debug\net7.0\deprem.Database.genruntimeconfig.cache
+C:\Users\stajyer\Desktop\git\deprem.crawler-api\depre.crawler\deprem.Database\obj\Debug\net7.0\ref\deprem.Database.dll
